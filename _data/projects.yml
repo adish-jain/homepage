@@ -15,7 +15,7 @@
   i18n: 'IB'
   repo: 
   img: 'static/img/landing/Picture1.png'
-  desc: "Engineered a thermoelectric generator using photovoltaics, which utilized the Peltier effect to produce enough electricity to charge a cell phone on-the-go. Integrated the compact system into a cooler (which provides a cool sink) that doubled as a cell phone charger, providing even more applicability and utility to the system. The project was submitted to the Synopsys Science & Engineering Fair, where it won 2nd place in the Engineering division and received the Ricoh Sustainable Development award."
+  desc: "Engineered a thermoelectric generator using photovoltaics, which utilized the Peltier effect to produce enough electricity to charge a cell phone on-the-go. Integrated the compact system into a cooler (which provides a cool sink) that doubled as a cell phone charger, providing even more applicability and utility to the system. The project was submitted to the Synopsys Science & Engineering Fair, where it won 2nd place in the Engineering division and received the Ricoh Sustainable Development award. Board: http://bit.ly/2xzKNOz"
 
 - name: 'Measuring the Effectiveness of Lowering Seniors’ Social Isolation Through a Website'
   i18n: 'ssc'
