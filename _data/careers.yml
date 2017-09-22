@@ -1,19 +1,5 @@
 # careers section data
 - name:
-    detail: External Vice President
-    i18n: TO
-  desc:
-    detail: After having served as the Director of the Career Exploration Committee the year before, I became the External Vice President of the Statistics Undergraduate Student Association (SUSA) this semester. Tasks include developing relationships with faculty, alumni, and professional contacts, managing and organizing events for 100+ members, and facilitating outreach to the larger Berkeley Statistics community.
-    i18n: TO_desc
-  date:
-    detail: August 2017 - present
-    i18n: TO_date
-  job:
-    detail: Statistics Undergraduate Student Association (Berkeley, CA)
-    i18n: TO_job
-  icon: fa-cloud
-
-- name:
     detail: Software Engineering Intern
     i18n: TO
   desc:
