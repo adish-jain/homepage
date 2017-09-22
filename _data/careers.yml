@@ -13,7 +13,7 @@
     i18n: TO_job
   icon: fa-cloud
 
-- name
+- name:
     detail: Software Engineering Intern
     i18n: TO
   desc:
