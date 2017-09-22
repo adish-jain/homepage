@@ -11,7 +11,7 @@
   job:
     detail: Statistics Undergraduate Student Association (Berkeley, CA)
     i18n: TO_job
-  icon: fa-book
+  icon: fa-cloud
 
 - name:
     detail: Software Engineering Intern
