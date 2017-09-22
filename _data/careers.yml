@@ -3,9 +3,7 @@
     detail: Undergraduate Researcher
     i18n: TO
   desc:
-    detail: Researching “The Economic and Social Benefits of City-Integrated Photovoltaics for Urban Transportation” under esteemed Professor and Nobel Laureate Dan Kammen. Tasks include rigorous data collection of city attributes for 60+ cities to create datasets, developing a Randomized Forest algorithm to run a feature analysis on data
-    •	Using a Monte Carlo simulation to measure sensitivity of different attributes
-
+    detail: Researching “The Economic and Social Benefits of City-Integrated Photovoltaics for Urban Transportation” under esteemed Professor and Nobel Laureate Dan Kammen. Tasks include rigorous data collection of city attributes for 60+ cities to create datasets, developing a Randomized Forest algorithm to run a feature analysis on data, and using a Monte Carlo simulation to measure sensitivity of different attributes.
     i18n: TO_desc
   date:
     detail: February 2017 - present
