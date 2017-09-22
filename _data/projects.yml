@@ -14,7 +14,7 @@
 - name: 'Maps'
   i18n: 'IB'
   repo:
-  img: 'static/img/landing/185924.png'
+  img: 'static/img/landing/voronoi.png'
   desc: 'Used Python and basic machine learning techniques such as K-Means and Least-Squares Linear Regression to create a visualization of Berkeley's restaurant ratings from the Yelp academic dataset'
   
 - name: 'A Novel Approach to Harnessing the Energy of the Sun by Using a Thermoelectric Generating Heat Chamber to Recharge a Cell Phone'
