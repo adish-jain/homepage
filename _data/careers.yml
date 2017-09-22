@@ -1,5 +1,19 @@
 # careers section data
 - name:
+    detail: Software Engineering Intern
+    i18n: TO
+  desc:
+    detail: Full-stack development of an educational Carbon Cap & Trade game. Worked with MySQL, PHP, HTML, Python, and AWS to design and develop dynamic web pages using results queried from database. Implemented user-validation & managed storage of user session information
+    i18n: TO_desc
+  date:
+    detail: June 2017 - present
+    i18n: TO_date
+  job:
+    detail: ClimatEG (Berkeley, CA)
+    i18n: TO_job
+  icon: fa-cloud
+
+- name:
     detail: Undergraduate Researcher
     i18n: TO
   desc:
