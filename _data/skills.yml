@@ -14,9 +14,10 @@
 - name: Matlab
   percentage: 10
   
-- name: Concepts of Probability
+- name: Structure & Interpretation of Computer Programs
   percentage: 5
 
 - name: R
   percentage: 10
+  
 
