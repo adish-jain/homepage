@@ -1,9 +1,15 @@
 # projects section data
+- name: 'Ants vs SomeBees'
+  i18n: 'IB'
+  repo: 
+  img: 'https://inst.eecs.berkeley.edu/~cs61a/sp16/proj/ants/assets/splash.png'
+  desc: 'Combined functional and object-oriented programming paradigms to create a tower defense game called Ants vs SomeBees, inspired by Plants vs Zombies. Repository: https://github.com/adish-jain/cs61a/tree/master/projects/ants'
+  
 - name: 'Scheme Interpreter'
   i18n: 'IB'
   repo: 
   img: 'http://www.rmnd.net/wp-content/uploads/2015/03/185924.png'
-  desc: "Developed an interpreter in Python for a subset of the Scheme programming language. A repository containing my code is available here: https://github.com/adish-jain/cs61a/tree/master/projects/scheme?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5tJO%2Fv5RSSyFkaNrVbWTCw%3D%3D"
+  desc: "Developed an interpreter in Python for a subset of the Scheme programming language. Repository: https://github.com/adish-jain/cs61a/tree/master/projects/scheme?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5tJO%2Fv5RSSyFkaNrVbWTCw%3D%3D"
 
 - name: 'A Novel Approach to Harnessing the Energy of the Sun by Using a Thermoelectric Generating Heat Chamber to Recharge a Cell Phone'
   i18n: 'IB'
