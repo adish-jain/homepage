@@ -1,15 +1,59 @@
 # careers section data
 - name:
+    detail: Undergraduate Researcher
+    i18n: TO
+  desc:
+    detail: Researching “The Economic and Social Benefits of City-Integrated Photovoltaics for Urban Transportation” under esteemed Professor and Nobel Laureate Dan Kammen. Tasks include rigorous data collection of city attributes for 60+ cities to create datasets, developing a Randomized Forest algorithm to run a feature analysis on data
+    •	Using a Monte Carlo simulation to measure sensitivity of different attributes
+
+    i18n: TO_desc
+  date:
+    detail: February 2017 - present
+    i18n: TO_date
+  job:
+    detail: Renewable & Appropriate Energy Laboratory (Berkeley, CA)
+    i18n: TO_job
+  icon: fa-book
+
+- name:
+    detail: Summer Scholar
+    i18n: TO
+  desc:
+    detail: The American Enterprise Institute’s Summer Honors Program connects student leaders with the ideas, research and community of AEI, one of America’s preeminent think-tanks. The program is a series of one week, fully-funded educational and professional development sessions that provide students with a unique opportunity to jumpstart their careers alongside a network of peers from around the country. Sessions also include policy briefings, high-level networking opportunities, and site visits in D.C. I will be under the instruction of Dr. Michael Rubin, a former Pentagon official, studying and understanding the Middle East challenge.
+    i18n: TO_desc
+  date:
+    detail: June 2017 
+    i18n: TO_date
+  job:
+    detail: American Enterprise Institue (Washington DC)
+    i18n: TO_job
+  icon: fa-book
+
+- name:
+    detail: Investment Analyst Intern
+    i18n: TO
+  desc:
+    detail: Developed an analysis model to evaluate risk in early-stage investments. Assessed decks, financial projections, and product summaries for startups. Cultivated contacts with VCs and 23 Silicon Valley startups across industries.
+    i18n: TO_desc
+  date:
+    detail: March 2017 - June 2017
+    i18n: TO_date
+  job:
+    detail: SeedChange (San Francisco, CA)
+    i18n: TO_job
+  icon: fa-cloud
+
+- name:
     detail: Director of the Career Exploration Committee
     i18n: TO
   desc:
-    detail: I recently became the newest member of Berkeley's Undergraduate Statistics Association's Executive Team, serving as Director of the Career Exploration Committee. As Director, my job will be to plan and organize speaker sessions for prospective students in the Statistics field to hear about the possibilities that lay ahead from industry experts. The club fosters thoughtful discussions regarding statistical concepts and problems.
+    detail: I recently became the newest member of Berkeley's Statistics Undergraduate Student Association's Executive Team, serving as Director of the Career Exploration Committee. As Director, my job will be to plan and organize speaker sessions for prospective students in the Statistics field to hear about the possibilities that lay ahead from industry experts. The club fosters thoughtful discussions regarding statistical concepts and problems.
     i18n: TO_desc
   date:
     detail: December 2016
     i18n: TO_date
   job:
-    detail: Berkeley's Undergraduate Statistics Association (Berkeley, CA)
+    detail: Berkeley's Statistics Undergraduate Student Association (Berkeley, CA)
     i18n: TO_job
   icon: fa-gamepad
 
