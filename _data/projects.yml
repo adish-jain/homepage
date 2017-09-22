@@ -1,8 +1,8 @@
 # projects section data
 - name: 'Scheme Interpreter'
   i18n: 'IB'
-  repo: 'https://github.com/adish-jain/cs61a/tree/master/projects/scheme?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5tJO%2Fv5RSSyFkaNrVbWTCw%3D%3D'
-  img: ''
+  repo: https://github.com/adish-jain/cs61a/tree/master/projects/scheme?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B5tJO%2Fv5RSSyFkaNrVbWTCw%3D%3D
+  img: 'https://www.computerhope.com/jargon/s/scheme.jpg'
   desc: "Developed an interpreter in Python for a subset of the Scheme programming language."
 
 
