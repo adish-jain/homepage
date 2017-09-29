@@ -12,10 +12,10 @@
   name: "The Economic Feasibility and Social Benefits of City-Integrated Photovoltaics for Urban Transportation"
   repo: ~
 - 
-  desc: "Researching under Professor & Nobel Laureate Dan Kammen, to futher our understanding of t"
+  desc: "Used Python and basic machine learning techniques such as K-Means and Least-Squares Linear Regression to create a visualization of Berkeley's restaurant ratings from the Yelp academic dataset."
   i18n: IB
   img: static/img/landing/Picture1.png
-  name: "The Economic Feasibility and Social Benefits of City-Integrated Photovoltaics for Urban Transportation"
+  name: "Maps"
   repo: ~
 - 
   desc: "Engineered a thermoelectric generator using photovoltaics, which utilized the Peltier effect to produce enough electricity to charge a cell phone on-the-go. Integrated the compact system into a cooler (which provides a cool sink) that doubled as a cell phone charger, providing even more applicability and utility to the system. The project was submitted to the Synopsys Science & Engineering Fair, where it won 2nd place in the Engineering division and received the Ricoh Sustainable Development award. Board: http://bit.ly/2xzKNOz"
