@@ -5,7 +5,7 @@
   img: 'static/img/landing/185924.png'
   desc: "Developed an interpreter in Python for a subset of the Scheme programming language. Repository: https://github.com/adish-jain/cs61a/tree/master/projects/scheme"
 
-- name: 'The Economic and Social Benefits of City-Integrated Photovoltaics for Urban Transportation'
+- name: 'The Economic Feasibility and Social Benefits of City-Integrated Photovoltaics for Urban Transportation'
   i18n: 'IB'
   repo: 
   img: 'static/img/landing/Picture1.png'
