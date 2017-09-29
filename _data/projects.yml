@@ -12,7 +12,7 @@
   name: "The Economic Feasibility and Social Benefits of City-Integrated Photovoltaics for Urban Transportation"
   repo: ~
 - 
-  desc: "Used Python and basic machine learning techniques such as K-Means and Least-Squares Linear Regression to create a visualization of Berkeley's restaurant ratings from the Yelp academic dataset."
+  desc: "Used Python and basic machine learning techniques such as K-Means and Least-Squares Linear Regression to create a visualization of Berkeley's restaurant ratings from the Yelp academic dataset. Repository: https://github.com/adish-jain/cs61a/tree/master/projects/maps"
   i18n: IB
   img: static/img/landing/voronoi.png
   name: "Maps"
