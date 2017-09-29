@@ -8,13 +8,13 @@
 - 
   desc: "Researching under Professor & Nobel Laureate Dan Kammen, to futher our understanding of the social and economic implications of integrating photovoltaic cells into global urban transportation. Research tasks include the rigorous data collection of city attributes for 60+ cities to create datasets, developing a Randomized Forest algorithm to run a feature analysis on data, and using a Monte Carlo simulation to measure sensitivity of different attributes. Expecting a publication in the Nature Journal by the end of the year. Findings: http://bit.ly/2wMEN0N"
   i18n: IB
-  img: static/img/landing/Green-Earth.jpg
+  img: static/img/landing/Screen Shot 2017-09-29 at 3.16.02 AM.png
   name: "The Economic Feasibility and Social Benefits of City-Integrated Photovoltaics for Urban Transportation"
   repo: ~
 - 
   desc: "Used Python and basic machine learning techniques such as K-Means and Least-Squares Linear Regression to create a visualization of Berkeley's restaurant ratings from the Yelp academic dataset. Repository: https://github.com/adish-jain/cs61a/tree/master/projects/maps"
   i18n: IB
-  img: static/img/landing/map-1272165_960_720.png
+  img: static/img/landing/pin.jpg
   name: "Maps"
   repo: ~
 - 
