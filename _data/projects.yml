@@ -1,36 +1,37 @@
-# projects section data
-- name: 'Scheme Interpreter'
-  i18n: 'IB'
-  repo: 
-  img: 'static/img/landing/185924.png'
+--- 
+- 
   desc: "Developed an interpreter in Python for a subset of the Scheme programming language. Repository: https://github.com/adish-jain/cs61a/tree/master/projects/scheme"
-
-- name: 'The Economic Feasibility and Social Benefits of City-Integrated Photovoltaics for Urban Transportation'
-  i18n: 'IB'
-  repo: 
-  img: 'static/img/landing/Picture1.png'
-  desc: 'Researching under Professor & Nobel Laureate Dan Kammen, to futher our understanding of the social and economic implications of integrating photovoltaic cells into global urban transportation. Research tasks include the rigorous data collection of city attributes for 60+ cities to create datasets, developing a Randomized Forest algorithm to run a feature analysis on data, and using a Monte Carlo simulation to measure sensitivity of different attributes. Expecting a publication in the Nature Journal by the end of the year. Findings: http://bit.ly/2wMEN0N' 
-  
-- name: 'Maps'
-  i18n: 'IB'
-  repo: 
-  img: 'static/img/landing/voronoi.png'
-  desc: 'Used Python and basic machine learning techniques such as K-Means and Least-Squares Linear Regression to create a visualization of Berkeley's restaurant ratings from the Yelp academic dataset. Repository: Repository: https://github.com/adish-jain/cs61a/tree/master/projects/maps' 
-  
-- name: 'A Novel Approach to Harnessing the Energy of the Sun by Using a Thermoelectric Generating Heat Chamber to Recharge a Cell Phone'
-  i18n: 'IB'
-  repo: 
-  img: 'static/img/landing/Picture1.png'
+  i18n: IB
+  img: static/img/landing/185924.png
+  name: "Scheme Interpreter"
+  repo: ~
+- 
+  desc: "Researching under Professor & Nobel Laureate Dan Kammen, to futher our understanding of the social and economic implications of integrating photovoltaic cells into global urban transportation. Research tasks include the rigorous data collection of city attributes for 60+ cities to create datasets, developing a Randomized Forest algorithm to run a feature analysis on data, and using a Monte Carlo simulation to measure sensitivity of different attributes. Expecting a publication in the Nature Journal by the end of the year. Findings: http://bit.ly/2wMEN0N"
+  i18n: IB
+  img: static/img/landing/Picture1.png
+  name: "The Economic Feasibility and Social Benefits of City-Integrated Photovoltaics for Urban Transportation"
+  repo: ~
+- 
+  desc: "Researching under Professor & Nobel Laureate Dan Kammen, to futher our understanding of t"
+  i18n: IB
+  img: static/img/landing/Picture1.png
+  name: "The Economic Feasibility and Social Benefits of City-Integrated Photovoltaics for Urban Transportation"
+  repo: ~
+- 
   desc: "Engineered a thermoelectric generator using photovoltaics, which utilized the Peltier effect to produce enough electricity to charge a cell phone on-the-go. Integrated the compact system into a cooler (which provides a cool sink) that doubled as a cell phone charger, providing even more applicability and utility to the system. The project was submitted to the Synopsys Science & Engineering Fair, where it won 2nd place in the Engineering division and received the Ricoh Sustainable Development award. Board: http://bit.ly/2xzKNOz"
-
-- name: 'Ants vs SomeBees'
-  i18n: 'IB'
-  repo: 
-  img: 'static/img/landing/splash.png'
-  desc: 'Combined functional and object-oriented programming paradigms to create a tower defense game called Ants vs SomeBees, inspired by Plants vs Zombies. Repository: https://github.com/adish-jain/cs61a/tree/master/projects/ants'
-
-- name: 'Measuring the Effectiveness of Lowering Seniors’ Social Isolation Through a Website'
-  i18n: 'ssc'
-  repo: 
-  img: 'static/img/landing/Screen Shot 2017-01-11 at 5.55.27 PM.png'
+  i18n: IB
+  img: static/img/landing/Picture1.png
+  name: "A Novel Approach to Harnessing the Energy of the Sun by Using a Thermoelectric Generating Heat Chamber to Recharge a Cell Phone"
+  repo: ~
+- 
+  desc: "Combined functional and object-oriented programming paradigms to create a tower defense game called Ants vs SomeBees, inspired by Plants vs Zombies. Repository: https://github.com/adish-jain/cs61a/tree/master/projects/ants"
+  i18n: IB
+  img: static/img/landing/splash.png
+  name: "Ants vs SomeBees"
+  repo: ~
+- 
   desc: "Created a social website to connect senior citizens with other senior citizens and with students, in an effort to reduce social isolation amongst seniors. Overall, found that there were signs of decreased feelings of social isolation amongst participating senior citizens. The project was submitted to the Synopsys Science & Engineering Fair, where it won 1st place in the Social Sciences division and received a cordial invitation to participate in the California State Science Fair."
+  i18n: ssc
+  img: "static/img/landing/Screen Shot 2017-01-11 at 5.55.27 PM.png"
+  name: "Measuring the Effectiveness of Lowering Seniors’ Social Isolation Through a Website"
+  repo: ~
