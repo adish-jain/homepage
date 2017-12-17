@@ -21,13 +21,13 @@
   percentage: 35
   
 - name: Data Structures
-  percentage: 40  
+  percentage: 100  
   
 - name: MySQL
   percentage: 80    
 
 - name: Concepts in Computing with Data 
-  percentage: 70 
+  percentage: 100 
 
 - name: HTML
   percentage: 75  
@@ -39,5 +39,17 @@
   percentage: 95  
   
 - name: Information Systems & Devices I 
-  percentage: 70 
+  percentage: 100 
+  
+- name: Git
+  percentage: 80
+  
+- name: Discrete Mathematics & Probability Theory
+  percentage: 10
+  
+- name: Public Speaking
+  percentage: 85
+  
+- name: Concepts of Probability
+  percentage: 10
   
