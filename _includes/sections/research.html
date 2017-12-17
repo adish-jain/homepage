@@ -8,7 +8,7 @@
   <div class="row">
   </div>	
     <div class="row">
-        {% for project in site.data.projects %}
+        {% for research in site.data.researches %}
             {% assign loopindex = forloop.index | modulo: 2 %}
             {% if forloop.last %}
                 {% if forloop.last == forloop.first %}
@@ -20,13 +20,13 @@
             <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
             {% endif %}
               <div class="team-member">
-                  <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
-                  <h4><span class="navy">{{ project.name }}</span></h4>
-                  <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
-                  {% if project.repo %}
-                  <iframe src="https://ghbtns.com/github-btn.html?user={{ site.author.github_username }}&repo={{ project.repo }}&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="100px" height="22px"></iframe>
-                  <iframe src="https://ghbtns.com/github-btn.html?user={{ site.author.github_username }}&repo={{ project.repo }}&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="22px"></iframe>
-                  <iframe src="https://ghbtns.com/github-btn.html?user={{ site.author.github_username }}&repo={{ project.repo }}&type=fork&count=true" frameborder="0" scrolling="0" width="100px" height="22px"></iframe>
+                  <img src="{{ research.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
+                  <h4><span class="navy">{{ research.name }}</span></h4>
+                  <p><span data-i18n="researches.{{ research.i18n }}">{{ research.desc }}</span></p>
+                  {% if research.repo %}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ site.author.github_username }}&repo={{ research.repo }}&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="100px" height="22px"></iframe>
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ site.author.github_username }}&repo={{ research.repo }}&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="22px"></iframe>
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ site.author.github_username }}&repo={{ research.repo }}&type=fork&count=true" frameborder="0" scrolling="0" width="100px" height="22px"></iframe>
                   {% endif %}
               </div>
           </div>
