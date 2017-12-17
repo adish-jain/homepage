@@ -24,12 +24,6 @@
   name: "Scheme Interpreter"
   repo: ~
 - 
-  desc: "Combined functional and object-oriented programming paradigms to create a tower defense game called Ants vs SomeBees, inspired by Plants vs Zombies. Repository: https://github.com/adish-jain/cs61a/tree/master/projects/ants"
-  i18n: IB
-  img: static/img/landing/Screen Shot 2017-09-29 at 3.11.34 AM.png
-  name: "Ants vs SomeBees"
-  repo: ~
-- 
   desc: "Used Python and basic machine learning techniques such as K-Means and Least-Squares Linear Regression to create a visualization of Berkeley's restaurant ratings from the Yelp academic dataset. Repository: https://github.com/adish-jain/cs61a/tree/master/projects/maps"
   i18n: IB
   img: static/img/landing/map-1272165_960_720.png
