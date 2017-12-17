@@ -26,5 +26,5 @@
 - id: 'research'
   i18n: 'nav.research'
   name: 'Research'
-  tpl: 'blog.html'
+  tpl: 'research.html'
   css: ''
