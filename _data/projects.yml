@@ -12,7 +12,7 @@
   name: "Qirkat"
   repo: ~
 - 
-  desc: "Developed a Relational-Database Management System which implemented a variety of SQL commands from the ground up. Repository: https://github.com/adish-jain/CS61B-Data-Structures/tree/master/proj1"
+  desc: "Developed a simplified Relational-Database Management System from the ground up, implementing a wide variety of SQL commands. Repository: https://github.com/adish-jain/CS61B-Data-Structures/tree/master/proj1"
   i18n: IB
   img: static/img/landing/185924.png
   name: "Databases"
