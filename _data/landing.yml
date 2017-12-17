@@ -21,7 +21,7 @@
   i18n: 'nav.projects'
   name: 'Projects'
   tpl: 'projects.html'
-  css: 'project'
+  css: ''
 
 - id: 'research'
   i18n: 'nav.research'
