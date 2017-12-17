@@ -1,24 +1,19 @@
-# blog page sections
-- name: Blog
-  href: '/blog/'
-
-- name: Python
-  href: '/python/'
-
-- name: Linux
-  href: '/linux/'
-
-- name: HTML
-  href: '/html/'
-
-- name: Database
-  href: '/database/'
-
-- name: Mac
-  href: '/mac/'
-
-- name: Life
-  href: '/life/'
-
-- name: Donate
-  href: '/donate/'
+---
+- 
+  desc: "Researching under Professor & Nobel Laureate Dan Kammen, to futher our understanding of the social and economic implications of integrating photovoltaic cells into global urban transportation. Research tasks include the rigorous data collection of city attributes for 60+ cities to create datasets, developing a Randomized Forest algorithm to run a feature analysis on data, and using a Monte Carlo simulation to measure sensitivity of different attributes. Expecting a publication in the Nature Journal by the end of the year. Findings: http://bit.ly/2wMEN0N. Repository: https://github.com/adish-jain/research"
+  i18n: IB
+  img: static/img/landing/green-energy-2.jpg
+  name: "The Economic Feasibility and Social Benefits of City-Integrated Photovoltaics for Urban Transportation"
+  repo: ~
+- 
+  desc: "Engineered a thermoelectric generator using photovoltaics, which utilized the Peltier effect to produce enough electricity to charge a cell phone on-the-go. Integrated the compact system into a cooler (which provides a cool sink) that doubled as a cell phone charger, providing even more applicability and utility to the system. The project was submitted to the Synopsys Science & Engineering Fair, where it won 2nd place in the Engineering division and received the Ricoh Sustainable Development award. Board: http://bit.ly/2xzKNOz"
+  i18n: IB
+  img: static/img/landing/Screen Shot 2017-09-29 at 3.23.13 AM.png
+  name: "A Novel Approach to Harnessing the Energy of the Sun by Using a Thermoelectric Generating Heat Chamber to Recharge a Cell Phone"
+  repo: ~
+- 
+  desc: "Created a social website to connect senior citizens with other senior citizens and with students, in an effort to reduce social isolation amongst seniors. Overall, found that there were signs of decreased feelings of social isolation amongst participating senior citizens. The project was submitted to the Synopsys Science & Engineering Fair, where it won 1st place in the Social Sciences division and received a cordial invitation to participate in the California State Science Fair."
+  i18n: ssc
+  img: "static/img/landing/Screen Shot 2017-01-11 at 5.55.27 PM.png"
+  name: "Measuring the Effectiveness of Lowering Seniors’ Social Isolation Through a Website"
+  repo: ~
