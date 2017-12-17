@@ -14,7 +14,7 @@
 - 
   desc: "Developed a simplified Relational-Database Management System from the ground up, implementing a wide variety of SQL commands. Repository: https://github.com/adish-jain/CS61B-Data-Structures/tree/master/proj1"
   i18n: IB
-  img: static/img/landing/sql-database.png
+  img: static/img/landing/database.png
   name: "Databases"
   repo: ~
 - 
@@ -28,6 +28,12 @@
   i18n: IB
   img: static/img/landing/map-1272165_960_720.png
   name: "Maps"
+  repo: ~
+- 
+  desc: "Combined functional and object-oriented programming paradigms to create a tower defense game called Ants vs SomeBees, inspired by Plants vs Zombies. Repository: https://github.com/adish-jain/cs61a/tree/master/projects/ants"
+  i18n: IB
+  img: static/img/landing/Screen Shot 2017-09-29 at 3.11.34 AM.png
+  name: "Ants vs SomeBees"
   repo: ~
 - 
   desc: "Combined functional and object-oriented programming paradigms to create a tower defense game called Ants vs SomeBees, inspired by Plants vs Zombies. Repository: https://github.com/adish-jain/cs61a/tree/master/projects/ants"
