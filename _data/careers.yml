@@ -1,12 +1,12 @@
 # careers section data
 - name:
-    detail: External Vice President
+    detail: President
     i18n: TO
   desc:
-    detail: After having served as the Director of the Career Exploration Committee the year before, I became the External Vice President of the Statistics Undergraduate Student Association (SUSA) this semester. Tasks include developing relationships with faculty, alumni, and professional contacts, managing and organizing events for 100+ members, and facilitating outreach to the larger Berkeley Statistics community.
+    detail: After having served as the External Vice President (2017) and the Director of the Career Exploration Committee (2016) the year before, my journey at the Statistics Undergraduate Student Association (SUSA) culminates with Presidency. As president, my main roles include overseeing all tasks being taken on by all of SUSA's committees, assisting the Statistics Department in various activities and outreach, and developing a tight-knit community amongst our 100+ member body.
     i18n: TO_desc
   date:
-    detail: August 2017 - present
+    detail: May 2018 - present
     i18n: TO_date
   job:
     detail: Statistics Undergraduate Student Association (Berkeley, CA)
@@ -20,7 +20,7 @@
     detail: Full-stack development of an educational Carbon Cap & Trade game. Worked with MySQL, PHP, HTML, Python, and AWS to design and develop dynamic web pages using results queried from database. Implemented user-validation & managed storage of user session information
     i18n: TO_desc
   date:
-    detail: June 2017 - present
+    detail: June 2017 - May 2018
     i18n: TO_date
   job:
     detail: ClimatEG (Berkeley, CA)
@@ -31,10 +31,10 @@
     detail: Undergraduate Researcher
     i18n: TO
   desc:
-    detail: Researching “The Economic and Social Benefits of City-Integrated Photovoltaics for Urban Transportation” under esteemed Professor and Nobel Laureate Dan Kammen. Tasks include rigorous data collection of city attributes for 60+ cities to create datasets, developing a Randomized Forest algorithm to run a feature analysis on data, and using a Monte Carlo simulation to measure sensitivity of different attributes.
+    detail: Researching “The Economic and Social Benefits of City-Integrated Photovoltaics for Urban Transportation” under esteemed Professor and Nobel Laureate Dan Kammen. Tasks include rigorous data collection of city attributes for 60+ cities to create datasets, developing a Randomized Forest algorithm to run a feature analysis on data, and using a Monte Carlo simulation to measure sensitivity of different attributes. Peer-reviewed publication in the Nature Journal expected by the end of 2018.
     i18n: TO_desc
   date:
-    detail: February 2017 - present
+    detail: February 2017 - May 2018
     i18n: TO_date
   job:
     detail: Renewable & Appropriate Energy Laboratory (Berkeley, CA)
