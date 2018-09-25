@@ -6,7 +6,7 @@
     detail: After having served as the External Vice President (2017) and the Director of the Career Exploration Committee (2016) the year before, my journey at the Statistics Undergraduate Student Association (SUSA) culminates with Presidency. As president, my main roles include overseeing all tasks being taken on by all of SUSA's committees, assisting the Statistics Department in various activities and outreach, and developing a tight-knit community amongst our 100+ member body.
     i18n: TO_desc
   date:
-    detail: May 2018 - present
+    detail: August 2018 - present
     i18n: TO_date
   job:
     detail: Statistics Undergraduate Student Association (Berkeley, CA)
@@ -14,7 +14,35 @@
   icon: fa-cloud
 
 - name:
+    detail: Computer Science Instructor
+    i18n: TO
+  desc:
+    detail: Instructing computer science students through private, one-hour online lessons in both Scratch and Python to teach them fundamental computer science concepts (loops, variables, conditionals, and algorithms).
+    i18n: TO_desc
+  date:
+    detail: June 2018 - present
+    i18n: TO_date
+  job:
+    detail: Juni Learning 
+    i18n: TO_job
+  icon: fa-cloud
+  
+  - name:
     detail: Software Engineering Intern
+    i18n: TO
+  desc:
+    detail: Implemented an optimized version of Mentor's interpreter tool in C, used to parse Verilog code and process microchip designs. Flattened the interpretation tree by developing a suite of specific and inexpensive cases for 2-state and 4-state logical and selection operations, achieving an overall 15% optimized runtime
+    i18n: TO_desc
+  date:
+    detail: June 2018 - present
+    i18n: TO_date
+  job:
+    detail: Mentor Graphics (Fremont, CA)
+    i18n: TO_job
+  icon: fa-cloud
+  
+- name:
+    detail: Software Development Intern
     i18n: TO
   desc:
     detail: Full-stack development of an educational Carbon Cap & Trade game. Worked with MySQL, PHP, HTML, Python, and AWS to design and develop dynamic web pages using results queried from database. Implemented user-validation & managed storage of user session information
@@ -126,7 +154,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Data Analyst Intern 
+    detail: Data Quality Intern 
     i18n: Sat
   desc:
     detail: Worked a paid internship at startup Quettra Inc., aiming to personalize advertisement experiences for users on mobile applications. Worked closely with consumer data to analyze trends and build model personas for users. 
