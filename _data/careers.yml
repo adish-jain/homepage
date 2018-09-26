@@ -34,7 +34,7 @@
     detail: Implemented an optimized version of Mentor's interpreter tool in C, used to parse Verilog code and process microchip designs. Flattened the interpretation tree by developing a suite of specific and inexpensive cases for 2-state and 4-state logical and selection operations, achieving an overall 15% optimized runtime
     i18n: TO_desc
   date:
-    detail: June 2018 - present
+    detail: June 2018 - August 2018
     i18n: TO_date
   job:
     detail: Mentor Graphics (Fremont, CA)
