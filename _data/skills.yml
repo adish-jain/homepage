@@ -1,48 +1,48 @@
 # skills section data
-- name: Java
-  percentage: 70
+- name: Python
+  percentage: 80
   
 - name: Efficient Algorithms & Intractable Problems (CS170)
   percentage: 60
   
-- name: Python
-  percentage: 80
+- name: Java
+  percentage: 70
   
 - name: Structure & Interpretation of Computer Programs (CS61A)
   percentage: 90 
 
 - name: C
-  percentage: 70
+  percentage: 40
 
 - name: Data Structures (CS61B)
   percentage: 95 
 
 - name: R
-  percentage: 35
+  percentage: 60
 
 - name: Discrete Mathematics & Probability Theory (CS70)
   percentage: 80
   
 - name: PHP
-  percentage: 80
+  percentage: 50
   
 - name: Concepts in Computing with Data (STAT133)
   percentage: 100 
   
 - name: MySQL
-  percentage: 80   
+  percentage: 60   
   
 - name: Concepts of Probability (STAT134)
   percentage: 80
 
 - name: HTML5
-  percentage: 75  
+  percentage: 55  
 
 - name: Concepts of Statistics (STAT135)
   percentage: 60
   
 - name: Bash
-  percentage: 95  
+  percentage: 60  
   
 - name: Foundations of Data Science (DS8)
   percentage: 95 
@@ -54,19 +54,19 @@
   percentage: 60
   
 - name: Git
-  percentage: 
+  percentage: 70
   
 - name: Multivariable Calculus (MATH53)
   percentage: 85
   
 - name: AWS
-  percentage: 
+  percentage: 55
   
 - name: Linear Algebra & Differential Equations (MATH54)
   percentage: 95 
   
 - name: Microsoft Office
-  percentage: 
+  percentage: 80
   
 - name: Information Systems & Devices I (EE16A)
   percentage: 80 
