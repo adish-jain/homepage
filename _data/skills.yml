@@ -11,19 +11,19 @@
 - name: Structure & Interpretation of Computer Programs (CS61A)
   percentage: 90 
 
-- name: R
+- name: C
   percentage: 70
 
 - name: Data Structures (CS61B)
   percentage: 95 
 
-- name: PHP
+- name: R
   percentage: 35
 
 - name: Discrete Mathematics & Probability Theory (CS70)
   percentage: 80
   
-- name: Git
+- name: PHP
   percentage: 80
   
 - name: Concepts in Computing with Data (STAT133)
@@ -35,37 +35,37 @@
 - name: Concepts of Probability (STAT134)
   percentage: 80
 
-- name: HTML
+- name: HTML5
   percentage: 75  
 
 - name: Concepts of Statistics (STAT135)
   percentage: 60
   
-- name: Microsoft Office
+- name: Bash
   percentage: 95  
   
 - name: Foundations of Data Science (DS8)
   percentage: 95 
   
-- name: Public Speaking
+- name: LaTeX
   percentage: 85
 
 - name: Principles & Techniques of Data Science (DS100)
   percentage: 60
   
-- name: 
+- name: Git
   percentage: 
   
 - name: Multivariable Calculus (MATH53)
   percentage: 85
   
-- name: 
+- name: AWS
   percentage: 
   
 - name: Linear Algebra & Differential Equations (MATH54)
   percentage: 95 
   
-- name: 
+- name: Microsoft Office
   percentage: 
   
 - name: Information Systems & Devices I (EE16A)
